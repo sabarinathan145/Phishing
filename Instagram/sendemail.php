@@ -20,7 +20,7 @@ if(isset($_POST['submit'])){
     $mail->Username = ' '; // Gmail address which you want to use as SMTP server
     $mail->Password = ' '; // Gmail address Password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-    $mail->Port = '587';
+    $mail->Port = '567'; // use port number '587' if it doesn't works change as '301'...
 
     $mail->setFrom(' '); // Gmail address which you used as SMTP server
     $mail->addAddress(' '); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
