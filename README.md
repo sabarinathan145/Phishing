@@ -10,8 +10,10 @@ If it fools the victim, he or she is coaxed into providing confidential informat
 ## 🎯 Preview
   <img src="Phishing/4.png">
   <img src="Phishing/5.png">
+  
 ## Database
   <img src="Phishing/7.png">
+  
 ## Spear Phishing
 Rather than using the “spray and pray” method , spear phishing involves sending malicious emails to specific individuals within an organization. 
 Rather than sending out mass emails to thousands of recipients, this method targets certain employees at specifically chosen companies
